@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-The background color is `#4A407F` for light mode and `#897EC5` for dark mode.
+ <picture> <img align="right" src="'https://drive.google.com/file/d/1J2m7yIwIwWdqmyYXj5q4oh8WucidAMpP/view?usp=drivesdk'" width = 250px></picture>
 
 <h1 align="center">Hi , I'm Ivan Bogado</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
@@ -37,12 +37,3 @@ The background color is `#4A407F` for light mode and `#897EC5` for dark mode.
 
 
 
-
-
-<style>
-    body {
-        background-image: url('https://drive.google.com/file/d/1J2m7yIwIwWdqmyYXj5q4oh8WucidAMpP/view?usp=drivesdk');
-        background-size: cover; /* Cubre todo el espacio disponible */
-        background-repeat: no-repeat; /* Evita que la imagen se repita */
-        background-position: center; /* Centra la imagen en la página */
-}
