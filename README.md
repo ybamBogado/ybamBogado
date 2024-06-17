@@ -4,11 +4,11 @@
 
 <h2 align="left">I’m currently learning  </h2>
 <h3 align="center"> Full stack Web develop in at <b>UTN(Universidad Tecnológica Nacional, Argentina)</b></h3>
-<h3 align="center"> Computer science/ Systems Engeenering at <b>UNAJ (Universidad Nacional Arturo Jauretche)</b></h3>
+<h3 align="center"> Computer science/ Systems Engeenering at <b>UNAJ (Universidad Nacional Arturo Jauretche, Argentina)</b></h3>
 
 - 📫 How to reach me **bogadoivan52@gmail.com**
 
-- ⚡ Fun fact **I'm constantly improving**
+- ⚡ Fun fact **I'm a runner and i draw**
 
 - 💬 Ask me about **python**
 <b></b>
