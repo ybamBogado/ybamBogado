@@ -1,35 +1,19 @@
-## Hi there 👋
 
-<!--
-**ybamBogado/ybamBogado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi , I'm Ivan Bogado </h1>
+<h3 align="center">A future full-stack web developer</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <picture> <img align="right" src="'https://drive.google.com/file/d/1J2m7yIwIwWdqmyYXj5q4oh8WucidAMpP/view?usp=drivesdk'" width = 250px></picture>
-
-<h1 align="center">Hi , I'm Ivan Bogado</h1>
-<h3 align="center">A passionate full-stack web developer</h3>
-
-- 🌱 I’m currently learning **html, css and javascript**
-
-- 💬 Ask me about **python**
+<h2 align="left">I’m currently learning  </h2>
+<h3 align="center"> Full stack Web develop in at <b>UTN(Universidad Tecnológica Nacional, Argentina)</b></h3>
+<h3 align="center"> Computer science/ Systems Engeenering at <b>UNAJ (Universidad Nacional Arturo Jauretche)</b></h3>
 
 - 📫 How to reach me **bogadoivan52@gmail.com**
 
 - ⚡ Fun fact **I'm constantly improving**
 
+- 💬 Ask me about **python**
+<b></b>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="left"></p>
 <a href="https://www.linkedin.com/in/ivan-bogado-40b03422b/">Likedin</a>
 
 <h3 align="left">Languages and Tools:</h3>
