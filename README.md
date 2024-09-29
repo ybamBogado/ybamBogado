@@ -8,9 +8,9 @@
 
 - 📫 How to reach me **bogadoivan52@gmail.com**
 
-- ⚡ Fun fact **I'm a runner and i draw**
+- ⚡ Random fact **I'm a runner and i draw in my free times**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about: ** my diferents abilities and skill. I am very versatile**
 <b></b>
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
