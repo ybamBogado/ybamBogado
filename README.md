@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Ivan Bogado </h1>
+<h1 align="center">Hi , I'm Ivan Bogado 21 years old</h1>
 <h3 align="center">A future full-stack web developer</h3>
 
 <h2 align="left">I’m currently learning  </h2>
